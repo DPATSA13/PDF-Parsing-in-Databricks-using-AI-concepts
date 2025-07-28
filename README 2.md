@@ -56,9 +56,9 @@ All extracted data is:
 
 ```
 Name     : DURGA PRASAD PATSA
-Email    : durgapatsa.p@gmail.com
+Email    : durgaXXXXXXX@gmail.com
 LinkedIn : https://linkedin.com/in/durga-prasad-patsa-1a0335bb
-Phone    : 309-532-8664
+Phone    : 309-XXX-XXXX
 
 Skills:
  - Azure Databricks
